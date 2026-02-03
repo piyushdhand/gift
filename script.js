@@ -20,8 +20,7 @@ const answers_no = {
 
 answers_yes = {
     "english": "Yes",
-    "french": "Oui",
-    "Thailand": "เย่ คืนดีกันแล้วน้า"
+
 }
 
 let language = "english"; // Default language is English
